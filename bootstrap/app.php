@@ -1,5 +1,8 @@
 <?php
 
+//加载自定义helpers
+require_once __DIR__.'/helpers.php';
+
 /*
 |--------------------------------------------------------------------------
 | Create The Application
